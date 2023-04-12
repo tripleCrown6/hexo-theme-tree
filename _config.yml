@@ -1,8 +1,8 @@
 # 必填
-title: tree
+title: tripleCrown
 
 # 以下为选填
-author: your name
+author: tripleCrown
 
 #网站图标，可替换
 favicon: /favicon.ico
@@ -10,13 +10,11 @@ favicon: /favicon.ico
 # 可选
 links:
   # github 图标 的链接，换成你自己的，配置时带上 http、https或者//
-  github: https://github.com/wujun234
+  github: https://github.com/tripleCrown6
   # 普通链接，可配置多个，以下是示例
   custom:
-    - name: Tree
-      URL: https://github.com/wujun234/hexo-theme-tree
-    - name: UidGenerator
-      URL: https://github.com/wujun234/uid-generator-spring-boot-starter
+    - name: 友链
+      URL: http://null
 
 
 # 可选, giscus 评论系统
@@ -55,10 +53,10 @@ busuanzi: false
 ####### 站外搜索配置 #####
 # 站点如果【被搜索引擎收录】，可以配置通过搜索引擎全站搜索
 # searchEngine：搜索引擎，不配置则默认为谷歌，可替换为百度等其他搜索引擎的搜索 URL
-#searchEngine: https://www.baidu.com/s?wd=
-searchEngine: https://www.google.com/search?q=
+searchEngine: https://www.baidu.com/s?wd=
+#searchEngine: https://www.google.com/search?q=
 # homeHost：要搜索的站点域名，不配置默认取当前页面的域名，以下是示例
-homeHost: wujun234.com
+homeHost: https://triplecrown6.github.io/
 
 #设置为 true 之前，要先确保，已经创建了 hexo 的 tags\categories\about 页面
 tags: false
